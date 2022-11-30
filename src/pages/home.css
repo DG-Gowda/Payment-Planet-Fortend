@@ -1,0 +1,106 @@
+img {
+    height: 20rem;
+    display: -webkit-box;
+    max-width: 100%;
+    margin:  0px 10rem;
+    
+}
+.right-side {
+    margin: 10px 20rem;
+    float: left;
+}
+.left-side {
+    margin: 80px 1rem;
+    float: left;
+}
+
+
+
+.content {
+    text-align: left;
+    margin: 3px 3rem;
+    width: 100%;
+}
+.header {
+    text-align: left;
+    margin: 15px 5rem;
+    width: 100%;
+}
+
+.card {
+    border: 0.1rem solid rgb(170 170 170 / 40%);
+    border-radius: 2rem;
+    height: 40rem;
+    margin: 0rem 1px;
+
+    
+
+    /* width: 41rem; */
+  }
+
+  .para{
+    margin: 3px 3rem;
+  }
+
+.card_wrap{
+    display: grid;
+    place-items: center;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 15px;
+
+}
+.card-icon{
+    background-color: rgb(211, 92, 92);
+    border-radius: 5rem;
+
+
+}
+
+.card-icon{
+    margin: 4rem 20px;
+    height: 10rem;
+    width: 10rem;
+}
+
+.with-this{
+    margin: 0rem 25rem;
+}
+
+.side{
+    height: 100px;
+
+}
+
+.footer {
+    margin: -147px 25pc;
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+.services{
+    gap: '10rem';
+}
+
+.footer-appstore{
+    height: 20rem;
+    display: -webkit-box;
+    max-width: 100%;
+    margin:  0px 10rem;
+
+}
+
+.foot{
+    background-color: rgb(125, 178, 215);
+}
+
+.pre{
+    background-color: rgb(224, 225, 172);
+
+}
+.plant{
+    background-color: rgb(221, 225, 172);
+
+
+}
+
